@@ -32,8 +32,11 @@
 ### <프로젝트 중요 소스코드>
 
 ```
+<a href="https://github.com/LeeAhjin96"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeAhjin96&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-### 
-
-
-![WIN_20230407_10_41_55_Pro](https://user-images.githubusercontent.com/129921901/232368115-9667821a-dccb-41f8-bbac-c95ed6cec5a4.jpg)
+# Tools
+<div align="center">
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+</div>
