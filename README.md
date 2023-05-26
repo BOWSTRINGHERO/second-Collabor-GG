@@ -1,4 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=G.G&fontSize=90" />
+
+
 # 팀 이름: GG (Good Game)
 
 ### 팀 멤버 소개: 
