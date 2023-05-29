@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=G.G&fontSize=90" />
 
-
+---
 # 팀 이름: G.G (Good Game)
 
 ### 팀 멤버 소개: 
@@ -37,8 +37,8 @@ pull -> git branch [사용할 브랜치명] git switch [사용할 개인브랜�
  
 ```
 
-
-### 프로젝트 소개 및 목표:
+---
+### 프로젝트 소개 및 목표 :
 
 - JAVA를 활용해 '아이작'게임을 모티브로 둔 미니게임만들기.
 
@@ -52,9 +52,8 @@ pull -> git branch [사용할 브랜치명] git switch [사용할 개인브랜�
 
 ```
 
-### <프로젝트 중요 소스코드>
+### 프로젝트 중요 소스코드 : 
 
-```
 <a href="https://github.com/LeeAhjin96"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeAhjin96&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 # Tools
